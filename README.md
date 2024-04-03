@@ -1,4 +1,4 @@
-# Priyanshu's Portfolio
+# Priyanshu Mehta
 
 ## Introduction
 
