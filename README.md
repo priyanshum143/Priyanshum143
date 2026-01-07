@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hey there! I'm Priyanshu, a 19-year-old pre-final year student pursuing BE in Computer Science and Engineering from Chitkara University, Punjab. 
+Hey there! I'm Priyanshu.
+Exploring complex systems and building diverse projects from the ground up, just a developer who enjoys turning logic into functional software and learning through creation.
 
 ## Hobbies
 
@@ -10,9 +11,10 @@ When I'm not immersed in the world of coding, you'll often find me on the cricke
 
 ## Skills
 
-- **Programming Languages**: C, C++, Java
+- **Programming Languages**: C, C++, Java, Python
+- **Frameworks**:  Pytest, Playwright
 - **Web Development**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Other Skills**: Git, Linux, SQL
+- **Tools**: Git, Linux, SQL, AWS, Docker, Kubernetes
 
 ## Projects
 
